@@ -48,5 +48,5 @@ perceptual delta tolerance: 3.0
 | 330 | ${\color{#FF5AB7} \text{\\#FF5AB7}}$ | ${\color{#FF5EA7} \text{\\#FF5EA7}}$ | ${\color{#FF6BB6} \text{\\#FF6BB6}}$ | ${\color{#FF74AE} \text{\\#FF74AE}}$ | ${\color{#FF76C5} \text{\\#FF76C5}}$ | ${\color{#EF6BB8} \text{\\#EF6BB8}}$ | ${\color{#F06EA9} \text{\\#F06EA9}}$ | ${\color{#FF7FBD} \text{\\#FF7FBD}}$ | ${\color{#EF79B7} \text{\\#EF79B7}}$ |
 | 340 | ${\color{#FF609D} \text{\\#FF609D}}$ | ${\color{#FF638D} \text{\\#FF638D}}$ | ${\color{#FE6E9B} \text{\\#FE6E9B}}$ | ${\color{#FF6FAA} \text{\\#FF6FAA}}$ | ${\color{#FF7C9D} \text{\\#FF7C9D}}$ | ${\color{#FF7CA9} \text{\\#FF7CA9}}$ | ${\color{#EE719E} \text{\\#EE719E}}$ | ${\color{#EF7493} \text{\\#EF7493}}$ | ${\color{#F17DAD} \text{\\#F17DAD}}$ |
 | 350 | ${\color{#FF6486} \text{\\#FF6486}}$ | ${\color{#FF6678} \text{\\#FF6678}}$ | ${\color{#FF7194} \text{\\#FF7194}}$ | ${\color{#FF7287} \text{\\#FF7287}}$ | ${\color{#FF7E95} \text{\\#FF7E95}}$ | ${\color{#FF7F8A} \text{\\#FF7F8A}}$ | ${\color{#F0728A} \text{\\#F0728A}}$ | ${\color{#FF83A2} \text{\\#FF83A2}}$ | ${\color{#F0747F} \text{\\#F0747F}}$ |
-|  | ${\color{#9D9D9D} \text{\\#9D9D9D}}$ | ${\color{#AAAAAA} \text{\\#AAAAAA}}$ |
+| achro | ${\color{#9D9D9D} \text{\\#9D9D9D}}$ | ${\color{#AAAAAA} \text{\\#AAAAAA}}$ |
 
