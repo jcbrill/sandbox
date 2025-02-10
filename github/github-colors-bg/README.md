@@ -11,6 +11,12 @@ Perceptual delta color definition tables for GitHub backgrounds:
 * [GH BG Perceptual Delta 4.0 Table](results/perceptual_colors_all_4.md)
 * [GH BG Perceptual Delta 5.0 Table](results/perceptual_colors_all_5.md)
 
+Perceptual delta color definition lists for GitHub backgrounds:
+* [GH BG Perceptual Delta 2.0 Lists](results/perceptual_colors_all_2_list.md)
+* [GH BG Perceptual Delta 3.0 Lists](results/perceptual_colors_all_3_list.md)
+* [GH BG Perceptual Delta 4.0 Lists](results/perceptual_colors_all_4_list.md)
+* [GH BG Perceptual Delta 5.0 Lists](results/perceptual_colors_all_5_list.md)
+
 ## Named Colors
 
 > [!CAUTION]

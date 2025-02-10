@@ -11,7 +11,7 @@ hue range: +- 5.0
 colorset definitions: 21  
 
 Hue interval:
-* 0 [355, 5)
+* 0 [355, 5):
   * ${\color{#FF6A6A} \text{\\#FF6A6A indianred1 [raveling, two4u-big, x11]}}$
   * ${\color{#FD7B7C} \text{\\#FD7B7C strongpink [nbs-anthus]}}$
   * ${\color{#F57576} \text{\\#F57576 salmon [cne-2007, cne-core-2007]}}$
@@ -28,7 +28,7 @@ Hue interval:
   * ${\color{#AC9B9B} \text{\\#AC9B9B dustygrey [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A99D9D} \text{\\#A99D9D nobel [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A9A5A5} \text{\\#A9A5A5 doublerakaia [resene-full-2010]}}$
-* 10 [5, 15)
+* 10 [5, 15):
   * ${\color{#FF6E4A} \text{\\#FF6E4A outrageousorange [crayola]}}$
   * ${\color{#FF6B53} \text{\\#FF6B53 persimmon [ntc, resene-2001]}}$
   * ${\color{#FF7256} \text{\\#FF7256 coral [raveling], coral1 [raveling, two4u-big, x11]}}$
@@ -53,7 +53,7 @@ Hue interval:
   * ${\color{#B09A95} \text{\\#B09A95 delrio [ntc, resene-2001]}}$
   * ${\color{#B1A09C} \text{\\#B1A09C doublemilestone [resene-full-2010], eighthbuffalo [resene-full-2010]}}$
   * ${\color{#AFA09E} \text{\\#AFA09E martini [ntc, resene-2001]}}$
-* 20 [15, 25)
+* 20 [15, 25):
   * ${\color{#FF7518} \text{\\#FF7518 pumpkin [ntc]}}$
   * ${\color{#FF6F1A} \text{\\#FF6F1A strongorange [nbs-anthus]}}$
   * ${\color{#FF7F24} \text{\\#FF7F24 chocolate1 [raveling, two4u-big, x11]}}$
@@ -90,7 +90,7 @@ Hue interval:
   * ${\color{#B5998E} \text{\\#B5998E delrio [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#B2A49B} \text{\\#B2A49B pristinelavender [resene-full-2010]}}$
   * ${\color{#B7A8A3} \text{\\#B7A8A3 martini [resene-2007, resene-2010, resene-full-2010]}}$
-* 30 [25, 35)
+* 30 [25, 35):
   * ${\color{#FF7F00} \text{\\#FF7F00 coral [two4u-medium, x11-old], darkorange [raveling], darkorange1 [raveling, two4u-big, x11], flushorange [ntc], orange [two4u-medium, two4u-small]}}$
   * ${\color{#FF8000} \text{\\#FF8000 orange [hollasch]}}$
   * ${\color{#FF8A00} \text{\\#FF8A00 orange [thomas]}}$
@@ -145,7 +145,7 @@ Hue interval:
   * ${\color{#A99F97} \text{\\#A99F97 viaduct [resene-full-2010]}}$
   * ${\color{#ABA59E} \text{\\#ABA59E quarterstonehenge [resene-full-2010]}}$
   * ${\color{#ACA59F} \text{\\#ACA59F cloudy [ntc, resene-2001]}}$
-* 40 [35, 45)
+* 40 [35, 45):
   * ${\color{#DD9901} \text{\\#DD9901 orangeyellow [cne-2007]}}$
   * ${\color{#E49B0F} \text{\\#E49B0F gamboge [ntc]}}$
   * ${\color{#E29418} \text{\\#E29418 dixie [ntc, resene-2001]}}$
@@ -196,7 +196,7 @@ Hue interval:
   * ${\color{#A8A293} \text{\\#A8A293 quarterarrowtown [resene-full-2010]}}$
   * ${\color{#B0A99F} \text{\\#B0A99F cloudy [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A6A29A} \text{\\#A6A29A dawn [ntc, resene-2001]}}$
-* 50 [45, 55)
+* 50 [45, 55):
   * ${\color{#C1A004} \text{\\#C1A004 buddhagold [ntc, resene-2001]}}$
   * ${\color{#B7A214} \text{\\#B7A214 sahara [ntc, resene-2001]}}$
   * ${\color{#BC9B1B} \text{\\#BC9B1B buddhagold [resene-2007, resene-2010, resene-full-2010]}}$
@@ -229,7 +229,7 @@ Hue interval:
   * ${\color{#A7A69D} \text{\\#A7A69D foggygrey [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A9A7A0} \text{\\#A9A7A0 quarterfriargrey [resene-full-2010]}}$
   * ${\color{#A09F9C} \text{\\#A09F9C mountainmist [resene-2007, resene-2010, resene-full-2010]}}$
-* 60 [55, 65)
+* 60 [55, 65):
   * ${\color{#9EA91F} \text{\\#9EA91F citron [ntc, resene-2001]}}$
   * ${\color{#AAAA66} \text{\\#AAAA66 drabolive [cne-2007]}}$
   * ${\color{#9F9F5F} \text{\\#9F9F5F khaki [two4u-medium, two4u-small, x11-old]}}$
@@ -237,7 +237,7 @@ Hue interval:
   * ${\color{#A9A790} \text{\\#A9A790 doublelinen [resene-full-2010]}}$
   * ${\color{#A4A49D} \text{\\#A4A49D delta [ntc, resene-2001]}}$
   * ${\color{#9F9F9C} \text{\\#9F9F9C stardust [ntc, resene-2001]}}$
-* 70 [65, 75)
+* 70 [65, 75):
   * ${\color{#8DB600} \text{\\#8DB600 vividyellowgreen [nbs-iscc]}}$
   * ${\color{#93AA00} \text{\\#93AA00 vividyellowgreen [nbs-anthus]}}$
   * ${\color{#99B21A} \text{\\#99B21A paleolivegreen [cne-2007]}}$
@@ -254,7 +254,7 @@ Hue interval:
   * ${\color{#9B9E8F} \text{\\#9B9E8F lemongrass [ntc, resene-2001]}}$
   * ${\color{#A0A197} \text{\\#A0A197 stardust [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A3A49C} \text{\\#A3A49C quartertapa [resene-full-2010]}}$
-* 80 [75, 85)
+* 80 [75, 85):
   * ${\color{#7AAC21} \text{\\#7AAC21 lima [resene-2007, resene-2010, resene-full-2010], topsecret [resene-full-2010]}}$
   * ${\color{#89AC27} \text{\\#89AC27 limerick [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#7FAC2B} \text{\\#7FAC2B avocado [cne-2007, cne-core-2007]}}$
@@ -263,7 +263,7 @@ Hue interval:
   * ${\color{#9FAC81} \text{\\#9FAC81 ice [cne-2007]}}$
   * ${\color{#A8AE9C} \text{\\#A8AE9C bud [ntc, resene-2001]}}$
   * ${\color{#9D9F9A} \text{\\#9D9F9A kensingtongrey [resene-full-2010]}}$
-* 90 [85, 95)
+* 90 [85, 95):
   * ${\color{#76BD17} \text{\\#76BD17 lima [ntc, resene-2001]}}$
   * ${\color{#7FAA44} \text{\\#7FAA44 seaweedgreen [cne-2007]}}$
   * ${\color{#76AD4C} \text{\\#76AD4C gogogo [resene-full-2010]}}$
@@ -273,20 +273,20 @@ Hue interval:
   * ${\color{#87A96B} \text{\\#87A96B asparagus [crayola]}}$
   * ${\color{#99B27F} \text{\\#99B27F beigegreen [cne-2007]}}$
   * ${\color{#A8AAA6} \text{\\#A8AAA6 atmosphere [resene-full-2010]}}$
-* 100 [95, 105)
+* 100 [95, 105):
   * ${\color{#61B329} \text{\\#61B329 cinnabargreen [hollasch]}}$
   * ${\color{#6ABD41} \text{\\#6ABD41 apple [cne-2007]}}$
   * ${\color{#5FB33A} \text{\\#5FB33A wham [resene-full-2010]}}$
   * ${\color{#66B348} \text{\\#66B348 apple [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#6DAE49} \text{\\#6DAE49 ferngreen [cne-2007]}}$
-* 110 [105, 115)
+* 110 [105, 115):
   * ${\color{#55C034} \text{\\#55C034 forestgreen [thomas]}}$
   * ${\color{#39B82D} \text{\\#39B82D grassgreen [cne-2007, cne-core-2007]}}$
   * ${\color{#40BB30} \text{\\#40BB30 grass [cne-2007, cne-core-2007]}}$
   * ${\color{#4CB233} \text{\\#4CB233 gardengreen [cne-2007], lightmediumgreen [cne-2007]}}$
   * ${\color{#6BAE63} \text{\\#6BAE63 sagegreen [cne-2007, cne-core-2007]}}$
   * ${\color{#96A793} \text{\\#96A793 mantle [resene-2007, resene-2010, resene-full-2010]}}$
-* 120 [115, 125)
+* 120 [115, 125):
   * ${\color{#3ABD33} \text{\\#3ABD33 midgreen [cne-2007]}}$
   * ${\color{#42BA3B} \text{\\#42BA3B leaf [cne-2007]}}$
   * ${\color{#3DB83B} \text{\\#3DB83B leafgreen [cne-2007, cne-core-2007]}}$
@@ -294,7 +294,7 @@ Hue interval:
   * ${\color{#77B575} \text{\\#77B575 sage [cne-2007, cne-core-2007]}}$
   * ${\color{#91A092} \text{\\#91A092 pewter [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#9EAA9E} \text{\\#9EAA9E robinseggblue [resene-2007, resene-2010, resene-full-2010]}}$
-* 130 [125, 135)
+* 130 [125, 135):
   * ${\color{#25BD38} \text{\\#25BD38 kellygreen [cne-2007, cne-core-2007]}}$
   * ${\color{#24BB3C} \text{\\#24BB3C kelly [cne-2007]}}$
   * ${\color{#33BF4C} \text{\\#33BF4C shamrockgreen [cne-2007]}}$
@@ -304,14 +304,14 @@ Hue interval:
   * ${\color{#8BA690} \text{\\#8BA690 envy [ntc, resene-2001]}}$
   * ${\color{#8BA58F} \text{\\#8BA58F envy [resene-2007, resene-2010, resene-full-2010], marshgreen [resene-full-2010]}}$
   * ${\color{#97A49A} \text{\\#97A49A edward [resene-2007, resene-2010, resene-full-2010]}}$
-* 140 [135, 145)
+* 140 [135, 145):
   * ${\color{#1AB24C} \text{\\#1AB24C rainforestgreen [cne-2007]}}$
   * ${\color{#30B853} \text{\\#30B853 emerald [cne-2007, cne-core-2007]}}$
   * ${\color{#6DAE81} \text{\\#6DAE81 forestgreen [crayola]}}$
   * ${\color{#7BB18D} \text{\\#7BB18D bayleaf [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#7EB394} \text{\\#7EB394 padua [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#7DA98D} \text{\\#7DA98D bayleaf [ntc, resene-2001]}}$
-* 150 [145, 155)
+* 150 [145, 155):
   * ${\color{#41BD85} \text{\\#41BD85 jade [cne-2007, cne-core-2007]}}$
   * ${\color{#3AB674} \text{\\#3AB674 dullgreen [cne-2007]}}$
   * ${\color{#3CB371} \text{\\#3CB371 mediumseagreen [css, netscape3, raveling, two4u-big, x11], seagreenmedium [hollasch]}}$
@@ -320,7 +320,7 @@ Hue interval:
   * ${\color{#7FB299} \text{\\#7FB299 seagreyblue [cne-2007]}}$
   * ${\color{#8DA399} \text{\\#8DA399 palegreen [nbs-iscc]}}$
   * ${\color{#9CACA5} \text{\\#9CACA5 towergrey [resene-2007, resene-2010, resene-full-2010]}}$
-* 160 [155, 165)
+* 160 [155, 165):
   * ${\color{#01B27F} \text{\\#01B27F softlimegreen [cne-2007]}}$
   * ${\color{#1AB385} \text{\\#1AB385 mountainmeadow [ntc]}}$
   * ${\color{#1AB27F} \text{\\#1AB27F malachite [cne-2007]}}$
@@ -337,7 +337,7 @@ Hue interval:
   * ${\color{#8CA8A0} \text{\\#8CA8A0 cascade [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#96A8A1} \text{\\#96A8A1 pewter [ntc, resene-2001]}}$
   * ${\color{#A2AEAB} \text{\\#A2AEAB edward [ntc, resene-2001]}}$
-* 170 [165, 175)
+* 170 [165, 175):
   * ${\color{#29B795} \text{\\#29B795 greenblue [cne-2007, cne-core-2007]}}$
   * ${\color{#31B49E} \text{\\#31B49E bluegreen [cne-2007, cne-core-2007]}}$
   * ${\color{#3ABDA0} \text{\\#3ABDA0 oceangreen [cne-2007]}}$
@@ -350,7 +350,7 @@ Hue interval:
   * ${\color{#8BA9A5} \text{\\#8BA9A5 cascade [ntc, resene-2001]}}$
   * ${\color{#9AB0AC} \text{\\#9AB0AC sorrento [resene-full-2010]}}$
   * ${\color{#A1A9A8} \text{\\#A1A9A8 hitgrey [resene-2007, resene-2010, resene-full-2010]}}$
-* 180 [175, 185)
+* 180 [175, 185):
   * ${\color{#20B2AA} \text{\\#20B2AA lightseagreen [css, netscape3, two4u-big, x11], seagreenlight [hollasch]}}$
   * ${\color{#3EACB5} \text{\\#3EACB5 mediumturquoise [thomas]}}$
   * ${\color{#3AAFA9} \text{\\#3AAFA9 teal [cne-2007, cne-core-2007]}}$
@@ -360,7 +360,7 @@ Hue interval:
   * ${\color{#77A8AB} \text{\\#77A8AB neptune [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#919FA0} \text{\\#919FA0 bounty [resene-full-2010]}}$
   * ${\color{#93A1A1} \text{\\#93A1A1 base1 [solarized]}}$
-* 190 [185, 195)
+* 190 [185, 195):
   * ${\color{#05B8CC} \text{\\#05B8CC cerulean [hollasch]}}$
   * ${\color{#1DACD6} \text{\\#1DACD6 cerulean [crayola]}}$
   * ${\color{#1CA9C9} \text{\\#1CA9C9 pacificblue [crayola]}}$
@@ -375,7 +375,7 @@ Hue interval:
   * ${\color{#929FA2} \text{\\#929FA2 powderblue [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A4ADB0} \text{\\#A4ADB0 gullgrey [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#999C9D} \text{\\#999C9D triplesurrender [resene-full-2010]}}$
-* 200 [195, 205)
+* 200 [195, 205):
   * ${\color{#00B2EE} \text{\\#00B2EE deepskyblue2 [raveling, two4u-big, x11]}}$
   * ${\color{#1FADFF} \text{\\#1FADFF caribbeanblue [cne-2007]}}$
   * ${\color{#22AAEE} \text{\\#22AAEE mediumskyblue [cne-2007]}}$
@@ -390,7 +390,7 @@ Hue interval:
   * ${\color{#A1ADB5} \text{\\#A1ADB5 hitgray [ntc], hitgrey [resene-2001]}}$
   * ${\color{#9EA0A1} \text{\\#9EA0A1 silveraluminium [resene-full-2010], socool [resene-full-2010]}}$
   * ${\color{#A8AAAB} \text{\\#A8AAAB doublesurrender [resene-full-2010]}}$
-* 210 [205, 215)
+* 210 [205, 215):
   * ${\color{#4DB2FF} \text{\\#4DB2FF carolinablue [cne-2007]}}$
   * ${\color{#4FAAEE} \text{\\#4FAAEE sky [cne-2007, cne-core-2007]}}$
   * ${\color{#5CACEE} \text{\\#5CACEE steelblue2 [raveling, two4u-big, x11]}}$
@@ -406,16 +406,16 @@ Hue interval:
   * ${\color{#A2AAB3} \text{\\#A2AAB3 graychateau [ntc], greychateau [resene-2001]}}$
   * ${\color{#A2AAB1} \text{\\#A2AAB1 forecast [resene-full-2010]}}$
   * ${\color{#9FA3A7} \text{\\#9FA3A7 greychateau [resene-2007, resene-2010, resene-full-2010]}}$
-* 220 [215, 225)
+* 220 [215, 225):
   * ${\color{#6699FF} \text{\\#6699FF milkyblue [cne-2007]}}$
   * ${\color{#93A2BA} \text{\\#93A2BA rockblue [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#93A2B7} \text{\\#93A2B7 smokescreen [resene-full-2010]}}$
   * ${\color{#A5A9B2} \text{\\#A5A9B2 mischka [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A4A8B0} \text{\\#A4A8B0 freestyling [resene-full-2010]}}$
-* 230 [225, 235)
+* 230 [225, 235):
   * ${\color{#8B9FEE} \text{\\#8B9FEE portage [ntc, resene-2001]}}$
   * ${\color{#8B98D8} \text{\\#8B98D8 magiccarpet [resene-full-2010], portage [resene-2007, resene-2010, resene-full-2010]}}$
-* 240 [235, 245)
+* 240 [235, 245):
   * ${\color{#9999FF} \text{\\#9999FF babypurple [cne-2007]}}$
   * ${\color{#9999E5} \text{\\#9999E5 softlavender [cne-2007]}}$
   * ${\color{#9999CC} \text{\\#9999CC bluebell [ntc]}}$
@@ -423,27 +423,27 @@ Hue interval:
   * ${\color{#A2A2D0} \text{\\#A2A2D0 bluebell [crayola]}}$
   * ${\color{#9D9CB4} \text{\\#9D9CB4 logan [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#9FA0B1} \text{\\#9FA0B1 santasgray [ntc], santasgrey [resene-2001]}}$
-* 250 [245, 255)
+* 250 [245, 255):
   * ${\color{#A899E6} \text{\\#A899E6 dulllavender [ntc], lavender [resene-2001]}}$
   * ${\color{#B2A1EA} \text{\\#B2A1EA bilobaflower [ntc, resene-2001]}}$
   * ${\color{#ABA0D9} \text{\\#ABA0D9 coldpurple [ntc, resene-2001]}}$
   * ${\color{#A29ECD} \text{\\#A29ECD wistful [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A09BB2} \text{\\#A09BB2 vision [resene-full-2010]}}$
   * ${\color{#A2A1AC} \text{\\#A2A1AC spunpearl [resene-2007, resene-2010, resene-full-2010]}}$
-* 260 [255, 265)
+* 260 [255, 265):
   * ${\color{#AE99D2} \text{\\#AE99D2 bilobaflower [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A397B4} \text{\\#A397B4 amethystsmoke [ntc, resene-2001]}}$
-* 270 [265, 275)
+* 270 [265, 275):
   * ${\color{#AC91CE} \text{\\#AC91CE eastside [ntc, resene-2001]}}$
-* 280 [275, 285)
+* 280 [275, 285):
   * ${\color{#D670FF} \text{\\#D670FF brightlilac [cne-2007]}}$
   * ${\color{#CC83F0} \text{\\#CC83F0 pastelpurple [cne-2007]}}$
   * ${\color{#AB94B3} \text{\\#AB94B3 marionette [resene-full-2010]}}$
-* 290 [285, 295)
+* 290 [285, 295):
   * ${\color{#E066FF} \text{\\#E066FF mediumorchid1 [raveling, two4u-big, x11]}}$
   * ${\color{#DF73FF} \text{\\#DF73FF heliotrope [ntc]}}$
   * ${\color{#B695C0} \text{\\#B695C0 lightpurple [nbs-iscc]}}$
-* 300 [295, 305)
+* 300 [295, 305):
   * ${\color{#FF66FF} \text{\\#FF66FF pinkflamingo [ntc]}}$
   * ${\color{#FF6FFF} \text{\\#FF6FFF blushpink [ntc]}}$
   * ${\color{#FC74FD} \text{\\#FC74FD pinkflamingo [crayola]}}$
@@ -453,18 +453,18 @@ Hue interval:
   * ${\color{#BB97BB} \text{\\#BB97BB wonderland [resene-full-2010]}}$
   * ${\color{#AA98A9} \text{\\#AA98A9 palepurple [nbs-iscc]}}$
   * ${\color{#B1A9B1} \text{\\#B1A9B1 ashenlavender [resene-full-2010]}}$
-* 310 [305, 315)
+* 310 [305, 315):
   * ${\color{#E57FCC} \text{\\#E57FCC oldpink [cne-2007], palerose [cne-2007]}}$
   * ${\color{#DD80CC} \text{\\#DD80CC brilliantpurple [nbs-anthus]}}$
   * ${\color{#AE94AB} \text{\\#AE94AB londonhue [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#AAA5A9} \text{\\#AAA5A9 shadylady [ntc, resene-2001]}}$
-* 320 [315, 325)
+* 320 [315, 325):
   * ${\color{#FF6EC7} \text{\\#FF6EC7 neonpink [two4u-medium]}}$
   * ${\color{#F466CC} \text{\\#F466CC lightmagenta [cne-2007]}}$
   * ${\color{#FF77D4} \text{\\#FF77D4 bubblegum [cne-2007]}}$
   * ${\color{#FF7AD6} \text{\\#FF7AD6 bubblegumpink [cne-2007]}}$
   * ${\color{#C19FB3} \text{\\#C19FB3 lily [resene-2007, resene-2010, resene-full-2010]}}$
-* 330 [325, 335)
+* 330 [325, 335):
   * ${\color{#FF5DB2} \text{\\#FF5DB2 bubblegum [cne-2007]}}$
   * ${\color{#FF66B2} \text{\\#FF66B2 dullpink [cne-2007]}}$
   * ${\color{#FF66BB} \text{\\#FF66BB flamingopink [cne-2007]}}$
@@ -476,7 +476,7 @@ Hue interval:
   * ${\color{#E292C0} \text{\\#E292C0 shocking [ntc, resene-2001]}}$
   * ${\color{#CB8FA9} \text{\\#CB8FA9 viola [ntc, resene-2001]}}$
   * ${\color{#9F9B9D} \text{\\#9F9B9D shadylady [resene-2007, resene-2010, resene-full-2010]}}$
-* 340 [335, 345)
+* 340 [335, 345):
   * ${\color{#FF7DB3} \text{\\#FF7DB3 mediumpink [raveling], mediumpink1 [raveling]}}$
   * ${\color{#FF82AB} \text{\\#FF82AB palevioletred1 [raveling, two4u-big, x11]}}$
   * ${\color{#FC80A5} \text{\\#FC80A5 ticklemepink [ntc]}}$
@@ -490,7 +490,7 @@ Hue interval:
   * ${\color{#D591A4} \text{\\#D591A4 cancan [ntc, resene-2001]}}$
   * ${\color{#D597AE} \text{\\#D597AE moderatepurplishpink [nbs-iscc]}}$
   * ${\color{#C58F9D} \text{\\#C58F9D viola [resene-2007, resene-2010, resene-full-2010]}}$
-* 350 [345, 355)
+* 350 [345, 355):
   * ${\color{#FF667F} \text{\\#FF667F coralpink [cne-2007]}}$
   * ${\color{#FC6C85} \text{\\#FC6C85 wildwatermelon [crayola]}}$
   * ${\color{#FF7E93} \text{\\#FF7E93 vividpink [nbs-anthus]}}$
@@ -505,7 +505,7 @@ Hue interval:
   * ${\color{#CD919E} \text{\\#CD919E pink3 [raveling, two4u-big, x11]}}$
   * ${\color{#C99AA0} \text{\\#C99AA0 careyspink [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#A8989B} \text{\\#A8989B dustygray [ntc], dustygrey [resene-2001]}}$
-* achromatic
+* achromatic:
   * ${\color{#9E9E9E} \text{\\#9E9E9E gray62 [raveling, thomas, two4u-big, x11, x11-old], grey62 [raveling, thomas, x11, x11-old]}}$
   * ${\color{#A1A1A1} \text{\\#A1A1A1 gray63 [raveling, thomas, two4u-big, x11, x11-old], grey63 [raveling, thomas, x11, x11-old]}}$
   * ${\color{#A6A6A6} \text{\\#A6A6A6 gray65 [raveling, thomas, two4u-big, x11, x11-old], grey65 [raveling, thomas, x11, x11-old]}}$
