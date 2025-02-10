@@ -10,7 +10,7 @@ hue step: 10.0
 hue range: +- 5.0  
 perceptual delta tolerance: 3.0  
 
-| Hue | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Hue | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | -: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | ${\color{#FF695C} \text{\\#FF695C}}$ | ${\color{#FF6866} \text{\\#FF6866}}$ | ${\color{#FF6770} \text{\\#FF6770}}$ | ${\color{#FF776C} \text{\\#FF776C}}$ | ${\color{#FF747F} \text{\\#FF747F}}$ | ${\color{#FF7676} \text{\\#FF7676}}$ | ${\color{#FF857A} \text{\\#FF857A}}$ | ${\color{#EF766F} \text{\\#EF766F}}$ | ${\color{#FF8285} \text{\\#FF8285}}$ |
 | 10 | ${\color{#FF6B3A} \text{\\#FF6B3A}}$ | ${\color{#FF6B48} \text{\\#FF6B48}}$ | ${\color{#FF794D} \text{\\#FF794D}}$ | ${\color{#FF6A53} \text{\\#FF6A53}}$ | ${\color{#FF7959} \text{\\#FF7959}}$ | ${\color{#FF865F} \text{\\#FF865F}}$ | ${\color{#FF7062} \text{\\#FF7062}}$ | ${\color{#EF7853} \text{\\#EF7853}}$ | ${\color{#FF7D68} \text{\\#FF7D68}}$ |
