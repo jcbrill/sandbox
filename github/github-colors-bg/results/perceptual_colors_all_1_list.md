@@ -1,0 +1,560 @@
+# Perceptual Delta Tolerance: 1.0
+
+ghcontrast configuration: all  
+ghcontrastmap definitions: 1520655  
+dark lc tolerance: 45.0  
+light lc tolerance: 45.0  
+max dark lc: 53.8  
+max light lc: 53.5  
+hue step: 10.0  
+hue range: +- 5.0  
+perceptual delta tolerance: 1.0  
+
+Hue interval:
+* 0 [355, 5):
+
+  * ${\color{#FF695C} \text{\\#FF695C [1]}}$
+  * ${\color{#FF6960} \text{\\#FF6960 [2]}}$
+  * ${\color{#FF6E61} \text{\\#FF6E61 [3]}}$
+  * ${\color{#FF6964} \text{\\#FF6964 [4]}}$
+  * ${\color{#FF6E65} \text{\\#FF6E65 [5]}}$
+  * ${\color{#FF676F} \text{\\#FF676F [6]}}$
+  * ${\color{#FF6867} \text{\\#FF6867 [7]}}$
+  * ${\color{#FF6773} \text{\\#FF6773 [8]}}$
+  * ${\color{#FF7367} \text{\\#FF7367 [9]}}$
+  * ${\color{#FF686B} \text{\\#FF686B [10]}}$
+  * ${\color{#F96F63} \text{\\#F96F63 [11]}}$
+  * ${\color{#FF6E69} \text{\\#FF6E69 [12]}}$
+  * ${\color{#FF736B} \text{\\#FF736B [13]}}$
+* 10 [5, 15):
+
+  * ${\color{#FF6B3A} \text{\\#FF6B3A [1]}}$
+  * ${\color{#FF6B3F} \text{\\#FF6B3F [2]}}$
+  * ${\color{#FF7041} \text{\\#FF7041 [3]}}$
+  * ${\color{#FF6B44} \text{\\#FF6B44 [4]}}$
+  * ${\color{#FF7046} \text{\\#FF7046 [5]}}$
+  * ${\color{#FF7548} \text{\\#FF7548 [6]}}$
+  * ${\color{#FF6B49} \text{\\#FF6B49 [7]}}$
+  * ${\color{#F97144} \text{\\#F97144 [8]}}$
+  * ${\color{#FF704B} \text{\\#FF704B [9]}}$
+  * ${\color{#FF6A4D} \text{\\#FF6A4D [10]}}$
+  * ${\color{#FF754D} \text{\\#FF754D [11]}}$
+  * ${\color{#FA7049} \text{\\#FA7049 [12]}}$
+  * ${\color{#FF7A4E} \text{\\#FF7A4E [13]}}$
+* 20 [15, 25):
+
+  * ${\color{#FF6C03} \text{\\#FF6C03 [1]}}$
+  * ${\color{#FF710C} \text{\\#FF710C [2]}}$
+  * ${\color{#FF6C12} \text{\\#FF6C12 [3]}}$
+  * ${\color{#FF7615} \text{\\#FF7615 [4]}}$
+  * ${\color{#F97212} \text{\\#F97212 [5]}}$
+  * ${\color{#FF7119} \text{\\#FF7119 [6]}}$
+  * ${\color{#FF6C1C} \text{\\#FF6C1C [7]}}$
+  * ${\color{#FF7B1D} \text{\\#FF7B1D [8]}}$
+  * ${\color{#FF761F} \text{\\#FF761F [9]}}$
+  * ${\color{#F9771B} \text{\\#F9771B [10]}}$
+  * ${\color{#F9721C} \text{\\#F9721C [11]}}$
+  * ${\color{#FF7122} \text{\\#FF7122 [12]}}$
+  * ${\color{#FF6C24} \text{\\#FF6C24 [13]}}$
+* 30 [25, 35):
+
+  * ${\color{#FF6C00} \text{\\#FF6C00 [1]}}$
+  * ${\color{#FF7000} \text{\\#FF7000 [2]}}$
+  * ${\color{#FF7400} \text{\\#FF7400 [3]}}$
+  * ${\color{#FF7800} \text{\\#FF7800 [4]}}$
+  * ${\color{#FF7C00} \text{\\#FF7C00 [5]}}$
+  * ${\color{#FF8000} \text{\\#FF8000 [6]}}$
+  * ${\color{#FF8400} \text{\\#FF8400 [7]}}$
+  * ${\color{#FF8800} \text{\\#FF8800 [8]}}$
+  * ${\color{#FF8C00} \text{\\#FF8C00 [9]}}$
+  * ${\color{#FC8E00} \text{\\#FC8E00 [10]}}$
+  * ${\color{#FA7100} \text{\\#FA7100 [11]}}$
+  * ${\color{#FA7500} \text{\\#FA7500 [12]}}$
+  * ${\color{#FA7900} \text{\\#FA7900 [13]}}$
+* 40 [35, 45):
+
+  * ${\color{#F89100} \text{\\#F89100 [1]}}$
+  * ${\color{#F69300} \text{\\#F69300 [2]}}$
+  * ${\color{#F38E00} \text{\\#F38E00 [3]}}$
+  * ${\color{#F39500} \text{\\#F39500 [4]}}$
+  * ${\color{#F19000} \text{\\#F19000 [5]}}$
+  * ${\color{#EF9600} \text{\\#EF9600 [6]}}$
+  * ${\color{#EE8B00} \text{\\#EE8B00 [7]}}$
+  * ${\color{#EE9200} \text{\\#EE9200 [8]}}$
+  * ${\color{#ED9800} \text{\\#ED9800 [9]}}$
+  * ${\color{#EC8D00} \text{\\#EC8D00 [10]}}$
+  * ${\color{#EA9300} \text{\\#EA9300 [11]}}$
+  * ${\color{#EA9900} \text{\\#EA9900 [12]}}$
+  * ${\color{#E98800} \text{\\#E98800 [13]}}$
+* 50 [45, 55):
+
+  * ${\color{#D8A200} \text{\\#D8A200 [1]}}$
+  * ${\color{#D5A300} \text{\\#D5A300 [2]}}$
+  * ${\color{#D39F00} \text{\\#D39F00 [3]}}$
+  * ${\color{#D2A400} \text{\\#D2A400 [4]}}$
+  * ${\color{#D0A000} \text{\\#D0A000 [5]}}$
+  * ${\color{#D0A600} \text{\\#D0A600 [6]}}$
+  * ${\color{#CE9B00} \text{\\#CE9B00 [7]}}$
+  * ${\color{#CDA100} \text{\\#CDA100 [8]}}$
+  * ${\color{#CDA700} \text{\\#CDA700 [9]}}$
+  * ${\color{#CB9C00} \text{\\#CB9C00 [10]}}$
+  * ${\color{#CBA300} \text{\\#CBA300 [11]}}$
+  * ${\color{#CAA800} \text{\\#CAA800 [12]}}$
+  * ${\color{#C99700} \text{\\#C99700 [13]}}$
+* 60 [55, 65):
+
+  * ${\color{#BCAD00} \text{\\#BCAD00 [1]}}$
+  * ${\color{#B9AE00} \text{\\#B9AE00 [2]}}$
+  * ${\color{#B8A900} \text{\\#B8A900 [3]}}$
+  * ${\color{#B6AF00} \text{\\#B6AF00 [4]}}$
+  * ${\color{#B5AA00} \text{\\#B5AA00 [5]}}$
+  * ${\color{#B4A500} \text{\\#B4A500 [6]}}$
+  * ${\color{#A6B400} \text{\\#A6B400 [7]}}$
+  * ${\color{#B3B000} \text{\\#B3B000 [8]}}$
+  * ${\color{#AAB300} \text{\\#AAB300 [9]}}$
+  * ${\color{#B2AB00} \text{\\#B2AB00 [10]}}$
+  * ${\color{#B1A600} \text{\\#B1A600 [11]}}$
+  * ${\color{#ADB100} \text{\\#ADB100 [12]}}$
+  * ${\color{#B0A200} \text{\\#B0A200 [13]}}$
+* 70 [65, 75):
+
+  * ${\color{#8CBA00} \text{\\#8CBA00 [1]}}$
+  * ${\color{#91B900} \text{\\#91B900 [2]}}$
+  * ${\color{#96B800} \text{\\#96B800 [3]}}$
+  * ${\color{#89B600} \text{\\#89B600 [4]}}$
+  * ${\color{#9AB600} \text{\\#9AB600 [5]}}$
+  * ${\color{#8EB500} \text{\\#8EB500 [6]}}$
+  * ${\color{#9EB500} \text{\\#9EB500 [7]}}$
+  * ${\color{#93B400} \text{\\#93B400 [8]}}$
+  * ${\color{#A2B400} \text{\\#A2B400 [9]}}$
+  * ${\color{#86B200} \text{\\#86B200 [10]}}$
+  * ${\color{#96B200} \text{\\#96B200 [11]}}$
+  * ${\color{#8BB100} \text{\\#8BB100 [12]}}$
+  * ${\color{#9AB100} \text{\\#9AB100 [13]}}$
+* 80 [75, 85):
+
+  * ${\color{#6FBE00} \text{\\#6FBE00 [1]}}$
+  * ${\color{#76BD00} \text{\\#76BD00 [2]}}$
+  * ${\color{#7DBC00} \text{\\#7DBC00 [3]}}$
+  * ${\color{#83BB00} \text{\\#83BB00 [4]}}$
+  * ${\color{#6DBA00} \text{\\#6DBA00 [5]}}$
+  * ${\color{#89BA00} \text{\\#89BA00 [6]}}$
+  * ${\color{#74B900} \text{\\#74B900 [7]}}$
+  * ${\color{#7BB800} \text{\\#7BB800 [8]}}$
+  * ${\color{#81B700} \text{\\#81B700 [9]}}$
+  * ${\color{#6BB600} \text{\\#6BB600 [10]}}$
+  * ${\color{#87B600} \text{\\#87B600 [11]}}$
+  * ${\color{#72B500} \text{\\#72B500 [12]}}$
+  * ${\color{#78B400} \text{\\#78B400 [13]}}$
+* 90 [85, 95):
+
+  * ${\color{#51C200} \text{\\#51C200 [1]}}$
+  * ${\color{#5CC100} \text{\\#5CC100 [2]}}$
+  * ${\color{#65C000} \text{\\#65C000 [3]}}$
+  * ${\color{#6DBF00} \text{\\#6DBF00 [4]}}$
+  * ${\color{#50BE00} \text{\\#50BE00 [5]}}$
+  * ${\color{#5ABD00} \text{\\#5ABD00 [6]}}$
+  * ${\color{#63BC00} \text{\\#63BC00 [7]}}$
+  * ${\color{#6BBB00} \text{\\#6BBB00 [8]}}$
+  * ${\color{#4EBA00} \text{\\#4EBA00 [9]}}$
+  * ${\color{#58B900} \text{\\#58B900 [10]}}$
+  * ${\color{#61B800} \text{\\#61B800 [11]}}$
+  * ${\color{#69B700} \text{\\#69B700 [12]}}$
+  * ${\color{#4CB600} \text{\\#4CB600 [13]}}$
+* 100 [95, 105):
+
+  * ${\color{#32C400} \text{\\#32C400 [1]}}$
+  * ${\color{#43C300} \text{\\#43C300 [2]}}$
+  * ${\color{#50C200} \text{\\#50C200 [3]}}$
+  * ${\color{#31C000} \text{\\#31C000 [4]}}$
+  * ${\color{#42BF00} \text{\\#42BF00 [5]}}$
+  * ${\color{#4FBE00} \text{\\#4FBE00 [6]}}$
+  * ${\color{#30BC00} \text{\\#30BC00 [7]}}$
+  * ${\color{#41BB00} \text{\\#41BB00 [8]}}$
+  * ${\color{#4CB900} \text{\\#4CB900 [9]}}$
+  * ${\color{#2FB800} \text{\\#2FB800 [10]}}$
+  * ${\color{#3FB700} \text{\\#3FB700 [11]}}$
+  * ${\color{#4AB500} \text{\\#4AB500 [12]}}$
+  * ${\color{#2EB400} \text{\\#2EB400 [13]}}$
+* 110 [105, 115):
+
+  * ${\color{#11C500} \text{\\#11C500 [1]}}$
+  * ${\color{#31C400} \text{\\#31C400 [2]}}$
+  * ${\color{#11C100} \text{\\#11C100 [3]}}$
+  * ${\color{#30C000} \text{\\#30C000 [4]}}$
+  * ${\color{#10BD00} \text{\\#10BD00 [5]}}$
+  * ${\color{#2EBC00} \text{\\#2EBC00 [6]}}$
+  * ${\color{#10B900} \text{\\#10B900 [7]}}$
+  * ${\color{#2EB800} \text{\\#2EB800 [8]}}$
+  * ${\color{#10B500} \text{\\#10B500 [9]}}$
+  * ${\color{#2DB400} \text{\\#2DB400 [10]}}$
+  * ${\color{#41C216} \text{\\#41C216 [11]}}$
+  * ${\color{#2BC319} \text{\\#2BC319 [12]}}$
+  * ${\color{#3FBE16} \text{\\#3FBE16 [13]}}$
+* 120 [115, 125):
+
+  * ${\color{#00C500} \text{\\#00C500 [1]}}$
+  * ${\color{#00C100} \text{\\#00C100 [2]}}$
+  * ${\color{#00BD00} \text{\\#00BD00 [3]}}$
+  * ${\color{#00B900} \text{\\#00B900 [4]}}$
+  * ${\color{#0EC51D} \text{\\#0EC51D [5]}}$
+  * ${\color{#00B60E} \text{\\#00B60E [6]}}$
+  * ${\color{#0CBF1A} \text{\\#0CBF1A [7]}}$
+  * ${\color{#0BBB19} \text{\\#0BBB19 [8]}}$
+  * ${\color{#18C226} \text{\\#18C226 [9]}}$
+  * ${\color{#28C21A} \text{\\#28C21A [10]}}$
+  * ${\color{#0CB319} \text{\\#0CB319 [11]}}$
+  * ${\color{#15B822} \text{\\#15B822 [12]}}$
+  * ${\color{#1BBD28} \text{\\#1BBD28 [13]}}$
+* 130 [125, 135):
+
+  * ${\color{#00C511} \text{\\#00C511 [1]}}$
+  * ${\color{#00C524} \text{\\#00C524 [2]}}$
+  * ${\color{#00C531} \text{\\#00C531 [3]}}$
+  * ${\color{#00C111} \text{\\#00C111 [4]}}$
+  * ${\color{#00C124} \text{\\#00C124 [5]}}$
+  * ${\color{#00BF2E} \text{\\#00BF2E [6]}}$
+  * ${\color{#00BD10} \text{\\#00BD10 [7]}}$
+  * ${\color{#00BC21} \text{\\#00BC21 [8]}}$
+  * ${\color{#00BB2D} \text{\\#00BB2D [9]}}$
+  * ${\color{#00B910} \text{\\#00B910 [10]}}$
+  * ${\color{#09C237} \text{\\#09C237 [11]}}$
+  * ${\color{#00B821} \text{\\#00B821 [12]}}$
+  * ${\color{#00B72C} \text{\\#00B72C [13]}}$
+* 140 [135, 145):
+
+  * ${\color{#00C431} \text{\\#00C431 [1]}}$
+  * ${\color{#00C43C} \text{\\#00C43C [2]}}$
+  * ${\color{#00C445} \text{\\#00C445 [3]}}$
+  * ${\color{#00C44E} \text{\\#00C44E [4]}}$
+  * ${\color{#00C030} \text{\\#00C030 [5]}}$
+  * ${\color{#00C03B} \text{\\#00C03B [6]}}$
+  * ${\color{#00C044} \text{\\#00C044 [7]}}$
+  * ${\color{#00C04C} \text{\\#00C04C [8]}}$
+  * ${\color{#01BD4F} \text{\\#01BD4F [9]}}$
+  * ${\color{#00BC2F} \text{\\#00BC2F [10]}}$
+  * ${\color{#00BC39} \text{\\#00BC39 [11]}}$
+  * ${\color{#00BC42} \text{\\#00BC42 [12]}}$
+  * ${\color{#06C254} \text{\\#06C254 [13]}}$
+* 150 [145, 155):
+
+  * ${\color{#00C452} \text{\\#00C452 [1]}}$
+  * ${\color{#00C45A} \text{\\#00C45A [2]}}$
+  * ${\color{#00C360} \text{\\#00C360 [3]}}$
+  * ${\color{#00C367} \text{\\#00C367 [4]}}$
+  * ${\color{#00C36D} \text{\\#00C36D [5]}}$
+  * ${\color{#00C050} \text{\\#00C050 [6]}}$
+  * ${\color{#00C057} \text{\\#00C057 [7]}}$
+  * ${\color{#00C06F} \text{\\#00C06F [8]}}$
+  * ${\color{#00BF5D} \text{\\#00BF5D [9]}}$
+  * ${\color{#00BF64} \text{\\#00BF64 [10]}}$
+  * ${\color{#00BD68} \text{\\#00BD68 [11]}}$
+  * ${\color{#00BC4F} \text{\\#00BC4F [12]}}$
+  * ${\color{#00BC56} \text{\\#00BC56 [13]}}$
+* 160 [155, 165):
+
+  * ${\color{#00C372} \text{\\#00C372 [1]}}$
+  * ${\color{#00C277} \text{\\#00C277 [2]}}$
+  * ${\color{#00C27D} \text{\\#00C27D [3]}}$
+  * ${\color{#00C282} \text{\\#00C282 [4]}}$
+  * ${\color{#00C186} \text{\\#00C186 [5]}}$
+  * ${\color{#00C18B} \text{\\#00C18B [6]}}$
+  * ${\color{#00C190} \text{\\#00C190 [7]}}$
+  * ${\color{#00BF70} \text{\\#00BF70 [8]}}$
+  * ${\color{#00BE75} \text{\\#00BE75 [9]}}$
+  * ${\color{#00BE7A} \text{\\#00BE7A [10]}}$
+  * ${\color{#00BE7F} \text{\\#00BE7F [11]}}$
+  * ${\color{#00BD83} \text{\\#00BD83 [12]}}$
+  * ${\color{#00BD88} \text{\\#00BD88 [13]}}$
+* 170 [165, 175):
+
+  * ${\color{#00C191} \text{\\#00C191 [1]}}$
+  * ${\color{#00C195} \text{\\#00C195 [2]}}$
+  * ${\color{#00C098} \text{\\#00C098 [3]}}$
+  * ${\color{#00C09C} \text{\\#00C09C [4]}}$
+  * ${\color{#00C0A0} \text{\\#00C0A0 [5]}}$
+  * ${\color{#00BFA3} \text{\\#00BFA3 [6]}}$
+  * ${\color{#00BFA7} \text{\\#00BFA7 [7]}}$
+  * ${\color{#00BFAB} \text{\\#00BFAB [8]}}$
+  * ${\color{#00BEAE} \text{\\#00BEAE [9]}}$
+  * ${\color{#00BD8E} \text{\\#00BD8E [10]}}$
+  * ${\color{#00BD92} \text{\\#00BD92 [11]}}$
+  * ${\color{#00BC95} \text{\\#00BC95 [12]}}$
+  * ${\color{#00BC99} \text{\\#00BC99 [13]}}$
+* 180 [175, 185):
+
+  * ${\color{#00BCCC} \text{\\#00BCCC [1]}}$
+  * ${\color{#00BCC9} \text{\\#00BCC9 [2]}}$
+  * ${\color{#00B8C8} \text{\\#00B8C8 [3]}}$
+  * ${\color{#00BCC6} \text{\\#00BCC6 [4]}}$
+  * ${\color{#00B8C5} \text{\\#00B8C5 [5]}}$
+  * ${\color{#00B4C4} \text{\\#00B4C4 [6]}}$
+  * ${\color{#00BCC3} \text{\\#00BCC3 [7]}}$
+  * ${\color{#00B8C2} \text{\\#00B8C2 [8]}}$
+  * ${\color{#00B4C1} \text{\\#00B4C1 [9]}}$
+  * ${\color{#00BDC1} \text{\\#00BDC1 [10]}}$
+  * ${\color{#00B0BF} \text{\\#00B0BF [11]}}$
+  * ${\color{#00B8BF} \text{\\#00B8BF [12]}}$
+  * ${\color{#00B4BE} \text{\\#00B4BE [13]}}$
+* 190 [185, 195):
+
+  * ${\color{#00B6F2} \text{\\#00B6F2 [1]}}$
+  * ${\color{#00B7EF} \text{\\#00B7EF [2]}}$
+  * ${\color{#00B2ED} \text{\\#00B2ED [3]}}$
+  * ${\color{#00B7EB} \text{\\#00B7EB [4]}}$
+  * ${\color{#00B3EA} \text{\\#00B3EA [5]}}$
+  * ${\color{#00B8E8} \text{\\#00B8E8 [6]}}$
+  * ${\color{#00AEE7} \text{\\#00AEE7 [7]}}$
+  * ${\color{#00B3E6} \text{\\#00B3E6 [8]}}$
+  * ${\color{#00AFE4} \text{\\#00AFE4 [9]}}$
+  * ${\color{#00B8E4} \text{\\#00B8E4 [10]}}$
+  * ${\color{#00B4E3} \text{\\#00B4E3 [11]}}$
+  * ${\color{#00AAE2} \text{\\#00AAE2 [12]}}$
+  * ${\color{#00B9E1} \text{\\#00B9E1 [13]}}$
+* 200 [195, 205):
+
+  * ${\color{#00A0FF} \text{\\#00A0FF [1]}}$
+  * ${\color{#00A3FF} \text{\\#00A3FF [2]}}$
+  * ${\color{#00A6FF} \text{\\#00A6FF [3]}}$
+  * ${\color{#00A9FF} \text{\\#00A9FF [4]}}$
+  * ${\color{#00ACFF} \text{\\#00ACFF [5]}}$
+  * ${\color{#00AFFF} \text{\\#00AFFF [6]}}$
+  * ${\color{#00B2FF} \text{\\#00B2FF [7]}}$
+  * ${\color{#00B5FF} \text{\\#00B5FF [8]}}$
+  * ${\color{#00B5FA} \text{\\#00B5FA [9]}}$
+  * ${\color{#00B1F9} \text{\\#00B1F9 [10]}}$
+  * ${\color{#00A3F8} \text{\\#00A3F8 [11]}}$
+  * ${\color{#00A6F8} \text{\\#00A6F8 [12]}}$
+  * ${\color{#00A9F8} \text{\\#00A9F8 [13]}}$
+* 210 [205, 215):
+
+  * ${\color{#1BA0FF} \text{\\#1BA0FF [1]}}$
+  * ${\color{#25A4FF} \text{\\#25A4FF [2]}}$
+  * ${\color{#2C9FFF} \text{\\#2C9FFF [3]}}$
+  * ${\color{#2FA8FF} \text{\\#2FA8FF [4]}}$
+  * ${\color{#2AA1F6} \text{\\#2AA1F6 [5]}}$
+  * ${\color{#33A3FF} \text{\\#33A3FF [6]}}$
+  * ${\color{#389EFF} \text{\\#389EFF [7]}}$
+  * ${\color{#38ACFF} \text{\\#38ACFF [8]}}$
+  * ${\color{#3BA7FF} \text{\\#3BA7FF [9]}}$
+  * ${\color{#34A5F6} \text{\\#34A5F6 [10]}}$
+  * ${\color{#3EA2FF} \text{\\#3EA2FF [11]}}$
+  * ${\color{#429DFF} \text{\\#429DFF [12]}}$
+  * ${\color{#42ABFF} \text{\\#42ABFF [13]}}$
+* 220 [215, 225):
+
+  * ${\color{#559BFF} \text{\\#559BFF [1]}}$
+  * ${\color{#5B9FFF} \text{\\#5B9FFF [2]}}$
+  * ${\color{#5C9AFF} \text{\\#5C9AFF [3]}}$
+  * ${\color{#619EFF} \text{\\#619EFF [4]}}$
+  * ${\color{#62A3FF} \text{\\#62A3FF [5]}}$
+  * ${\color{#6399FF} \text{\\#6399FF [6]}}$
+  * ${\color{#679DFF} \text{\\#679DFF [7]}}$
+  * ${\color{#68A1FF} \text{\\#68A1FF [8]}}$
+  * ${\color{#5F9CF6} \text{\\#5F9CF6 [9]}}$
+  * ${\color{#6998FF} \text{\\#6998FF [10]}}$
+  * ${\color{#69A7FF} \text{\\#69A7FF [11]}}$
+  * ${\color{#6C9CFF} \text{\\#6C9CFF [12]}}$
+  * ${\color{#6CA5FF} \text{\\#6CA5FF [13]}}$
+* 230 [225, 235):
+
+  * ${\color{#7396FF} \text{\\#7396FF [1]}}$
+  * ${\color{#7895FF} \text{\\#7895FF [2]}}$
+  * ${\color{#7999FF} \text{\\#7999FF [3]}}$
+  * ${\color{#7D94FF} \text{\\#7D94FF [4]}}$
+  * ${\color{#7D9DFF} \text{\\#7D9DFF [5]}}$
+  * ${\color{#7E98FF} \text{\\#7E98FF [6]}}$
+  * ${\color{#7797F7} \text{\\#7797F7 [7]}}$
+  * ${\color{#8293FF} \text{\\#8293FF [8]}}$
+  * ${\color{#829CFF} \text{\\#829CFF [9]}}$
+  * ${\color{#82A1FF} \text{\\#82A1FF [10]}}$
+  * ${\color{#8397FF} \text{\\#8397FF [11]}}$
+  * ${\color{#7D9AF8} \text{\\#7D9AF8 [12]}}$
+  * ${\color{#7C96F7} \text{\\#7C96F7 [13]}}$
+* 240 [235, 245):
+
+  * ${\color{#8891FF} \text{\\#8891FF [1]}}$
+  * ${\color{#8C95FF} \text{\\#8C95FF [2]}}$
+  * ${\color{#968DFF} \text{\\#968DFF [3]}}$
+  * ${\color{#8D90FF} \text{\\#8D90FF [4]}}$
+  * ${\color{#928FFF} \text{\\#928FFF [5]}}$
+  * ${\color{#9099FF} \text{\\#9099FF [6]}}$
+  * ${\color{#8B92F9} \text{\\#8B92F9 [7]}}$
+  * ${\color{#9891FF} \text{\\#9891FF [8]}}$
+  * ${\color{#9094FE} \text{\\#9094FE [9]}}$
+  * ${\color{#9593FF} \text{\\#9593FF [10]}}$
+  * ${\color{#9498FF} \text{\\#9498FF [11]}}$
+  * ${\color{#948FF9} \text{\\#948FF9 [12]}}$
+  * ${\color{#8E96F8} \text{\\#8E96F8 [13]}}$
+* 250 [245, 255):
+
+  * ${\color{#A488FF} \text{\\#A488FF [1]}}$
+  * ${\color{#9F8AFF} \text{\\#9F8AFF [2]}}$
+  * ${\color{#998CFF} \text{\\#998CFF [3]}}$
+  * ${\color{#A48CFF} \text{\\#A48CFF [4]}}$
+  * ${\color{#9E8EFF} \text{\\#9E8EFF [5]}}$
+  * ${\color{#A98EFF} \text{\\#A98EFF [6]}}$
+  * ${\color{#A58AFA} \text{\\#A58AFA [7]}}$
+  * ${\color{#9A90FF} \text{\\#9A90FF [8]}}$
+  * ${\color{#A390FF} \text{\\#A390FF [9]}}$
+  * ${\color{#A08BF9} \text{\\#A08BF9 [10]}}$
+  * ${\color{#9F92FF} \text{\\#9F92FF [11]}}$
+  * ${\color{#A892FF} \text{\\#A892FF [12]}}$
+  * ${\color{#AD92FF} \text{\\#AD92FF [13]}}$
+* 260 [255, 265):
+
+  * ${\color{#B481FF} \text{\\#B481FF [1]}}$
+  * ${\color{#AE84FF} \text{\\#AE84FF [2]}}$
+  * ${\color{#B485FF} \text{\\#B485FF [3]}}$
+  * ${\color{#A986FF} \text{\\#A986FF [4]}}$
+  * ${\color{#AE88FF} \text{\\#AE88FF [5]}}$
+  * ${\color{#B888FF} \text{\\#B888FF [6]}}$
+  * ${\color{#B483F9} \text{\\#B483F9 [7]}}$
+  * ${\color{#A88AFF} \text{\\#A88AFF [8]}}$
+  * ${\color{#B389FE} \text{\\#B389FE [9]}}$
+  * ${\color{#AF85F9} \text{\\#AF85F9 [10]}}$
+  * ${\color{#AD8CFF} \text{\\#AD8CFF [11]}}$
+  * ${\color{#B88CFF} \text{\\#B88CFF [12]}}$
+  * ${\color{#AA87F9} \text{\\#AA87F9 [13]}}$
+* 270 [265, 275):
+
+  * ${\color{#C578FF} \text{\\#C578FF [1]}}$
+  * ${\color{#C07BFF} \text{\\#C07BFF [2]}}$
+  * ${\color{#C87CFF} \text{\\#C87CFF [3]}}$
+  * ${\color{#BB7EFF} \text{\\#BB7EFF [4]}}$
+  * ${\color{#C27FFF} \text{\\#C27FFF [5]}}$
+  * ${\color{#C27CFA} \text{\\#C27CFA [6]}}$
+  * ${\color{#B681FF} \text{\\#B681FF [7]}}$
+  * ${\color{#C781FF} \text{\\#C781FF [8]}}$
+  * ${\color{#BD82FF} \text{\\#BD82FF [9]}}$
+  * ${\color{#C284FF} \text{\\#C284FF [10]}}$
+  * ${\color{#CB84FF} \text{\\#CB84FF [11]}}$
+  * ${\color{#BC7FF9} \text{\\#BC7FF9 [12]}}$
+  * ${\color{#B885FF} \text{\\#B885FF [13]}}$
+* 280 [275, 285):
+
+  * ${\color{#D86BFF} \text{\\#D86BFF [1]}}$
+  * ${\color{#D36FFF} \text{\\#D36FFF [2]}}$
+  * ${\color{#DA70FF} \text{\\#DA70FF [3]}}$
+  * ${\color{#CD73FF} \text{\\#CD73FF [4]}}$
+  * ${\color{#D474FF} \text{\\#D474FF [5]}}$
+  * ${\color{#DB75FF} \text{\\#DB75FF [6]}}$
+  * ${\color{#D470F9} \text{\\#D470F9 [7]}}$
+  * ${\color{#C777FF} \text{\\#C777FF [8]}}$
+  * ${\color{#CD78FF} \text{\\#CD78FF [9]}}$
+  * ${\color{#D379FF} \text{\\#D379FF [10]}}$
+  * ${\color{#CF74F9} \text{\\#CF74F9 [11]}}$
+  * ${\color{#DC7AFF} \text{\\#DC7AFF [12]}}$
+  * ${\color{#D575F9} \text{\\#D575F9 [13]}}$
+* 290 [285, 295):
+
+  * ${\color{#F053FF} \text{\\#F053FF [1]}}$
+  * ${\color{#EA5AFF} \text{\\#EA5AFF [2]}}$
+  * ${\color{#F15AFF} \text{\\#F15AFF [3]}}$
+  * ${\color{#E461FF} \text{\\#E461FF [4]}}$
+  * ${\color{#EA61FF} \text{\\#EA61FF [5]}}$
+  * ${\color{#F161FF} \text{\\#F161FF [6]}}$
+  * ${\color{#EB5DF9} \text{\\#EB5DF9 [7]}}$
+  * ${\color{#DE66FF} \text{\\#DE66FF [8]}}$
+  * ${\color{#E567FF} \text{\\#E567FF [9]}}$
+  * ${\color{#EB67FF} \text{\\#EB67FF [10]}}$
+  * ${\color{#F267FF} \text{\\#F267FF [11]}}$
+  * ${\color{#E463F8} \text{\\#E463F8 [12]}}$
+  * ${\color{#EA64F8} \text{\\#EA64F8 [13]}}$
+* 300 [295, 305):
+
+  * ${\color{#FF38FF} \text{\\#FF38FF [1]}}$
+  * ${\color{#FF3EF8} \text{\\#FF3EF8 [2]}}$
+  * ${\color{#FF43F0} \text{\\#FF43F0 [3]}}$
+  * ${\color{#FF43FF} \text{\\#FF43FF [4]}}$
+  * ${\color{#F847FF} \text{\\#F847FF [5]}}$
+  * ${\color{#FF48F7} \text{\\#FF48F7 [6]}}$
+  * ${\color{#FF4DF1} \text{\\#FF4DF1 [7]}}$
+  * ${\color{#FF4DFD} \text{\\#FF4DFD [8]}}$
+  * ${\color{#F949F8} \text{\\#F949F8 [9]}}$
+  * ${\color{#F94FFF} \text{\\#F94FFF [10]}}$
+  * ${\color{#F250FF} \text{\\#F250FF [11]}}$
+  * ${\color{#FF52F7} \text{\\#FF52F7 [12]}}$
+  * ${\color{#F94DF0} \text{\\#F94DF0 [13]}}$
+* 310 [305, 315):
+
+  * ${\color{#FF44EE} \text{\\#FF44EE [1]}}$
+  * ${\color{#FF48E7} \text{\\#FF48E7 [2]}}$
+  * ${\color{#FF4BE1} \text{\\#FF4BE1 [3]}}$
+  * ${\color{#FF4DED} \text{\\#FF4DED [4]}}$
+  * ${\color{#FF4EDA} \text{\\#FF4EDA [5]}}$
+  * ${\color{#FF51D4} \text{\\#FF51D4 [6]}}$
+  * ${\color{#FF51E6} \text{\\#FF51E6 [7]}}$
+  * ${\color{#FF53E0} \text{\\#FF53E0 [8]}}$
+  * ${\color{#FF55EC} \text{\\#FF55EC [9]}}$
+  * ${\color{#FF56DA} \text{\\#FF56DA [10]}}$
+  * ${\color{#F952E7} \text{\\#F952E7 [11]}}$
+  * ${\color{#FF59E5} \text{\\#FF59E5 [12]}}$
+  * ${\color{#FF5BF1} \text{\\#FF5BF1 [13]}}$
+* 320 [315, 325):
+
+  * ${\color{#FF51D3} \text{\\#FF51D3 [1]}}$
+  * ${\color{#FF53CD} \text{\\#FF53CD [2]}}$
+  * ${\color{#FF55C7} \text{\\#FF55C7 [3]}}$
+  * ${\color{#FF57C1} \text{\\#FF57C1 [4]}}$
+  * ${\color{#FF59BA} \text{\\#FF59BA [5]}}$
+  * ${\color{#FF59D2} \text{\\#FF59D2 [6]}}$
+  * ${\color{#FF5ACC} \text{\\#FF5ACC [7]}}$
+  * ${\color{#FF5CC6} \text{\\#FF5CC6 [8]}}$
+  * ${\color{#FF5DC0} \text{\\#FF5DC0 [9]}}$
+  * ${\color{#FF5FD6} \text{\\#FF5FD6 [10]}}$
+  * ${\color{#FF60D0} \text{\\#FF60D0 [11]}}$
+  * ${\color{#F95BCD} \text{\\#F95BCD [12]}}$
+  * ${\color{#FF62BE} \text{\\#FF62BE [13]}}$
+* 330 [325, 335):
+
+  * ${\color{#FF5AB7} \text{\\#FF5AB7 [1]}}$
+  * ${\color{#FF5CAF} \text{\\#FF5CAF [2]}}$
+  * ${\color{#FF5EA7} \text{\\#FF5EA7 [3]}}$
+  * ${\color{#FF5FA2} \text{\\#FF5FA2 [4]}}$
+  * ${\color{#FF5FB5} \text{\\#FF5FB5 [5]}}$
+  * ${\color{#FF5FBC} \text{\\#FF5FBC [6]}}$
+  * ${\color{#FF61AD} \text{\\#FF61AD [7]}}$
+  * ${\color{#FF64A7} \text{\\#FF64A7 [8]}}$
+  * ${\color{#FF64B3} \text{\\#FF64B3 [9]}}$
+  * ${\color{#FF64BA} \text{\\#FF64BA [10]}}$
+  * ${\color{#FA61B7} \text{\\#FA61B7 [11]}}$
+  * ${\color{#FF66AC} \text{\\#FF66AC [12]}}$
+  * ${\color{#FF68C0} \text{\\#FF68C0 [13]}}$
+* 340 [335, 345):
+
+  * ${\color{#FF609D} \text{\\#FF609D [1]}}$
+  * ${\color{#FF60A2} \text{\\#FF60A2 [2]}}$
+  * ${\color{#FF6198} \text{\\#FF6198 [3]}}$
+  * ${\color{#FF6292} \text{\\#FF6292 [4]}}$
+  * ${\color{#FF638D} \text{\\#FF638D [5]}}$
+  * ${\color{#FF6697} \text{\\#FF6697 [6]}}$
+  * ${\color{#FF669D} \text{\\#FF669D [7]}}$
+  * ${\color{#FF66A2} \text{\\#FF66A2 [8]}}$
+  * ${\color{#FF6792} \text{\\#FF6792 [9]}}$
+  * ${\color{#FF698F} \text{\\#FF698F [10]}}$
+  * ${\color{#FF69A7} \text{\\#FF69A7 [11]}}$
+  * ${\color{#FA66A3} \text{\\#FA66A3 [12]}}$
+  * ${\color{#FF6B97} \text{\\#FF6B97 [13]}}$
+* 350 [345, 355):
+
+  * ${\color{#FF6486} \text{\\#FF6486 [1]}}$
+  * ${\color{#FF648A} \text{\\#FF648A [2]}}$
+  * ${\color{#FF657F} \text{\\#FF657F [3]}}$
+  * ${\color{#FF6678} \text{\\#FF6678 [4]}}$
+  * ${\color{#FF667C} \text{\\#FF667C [5]}}$
+  * ${\color{#FF6774} \text{\\#FF6774 [6]}}$
+  * ${\color{#FF6784} \text{\\#FF6784 [7]}}$
+  * ${\color{#FF6A89} \text{\\#FF6A89 [8]}}$
+  * ${\color{#FF6A8D} \text{\\#FF6A8D [9]}}$
+  * ${\color{#FF6B79} \text{\\#FF6B79 [10]}}$
+  * ${\color{#FF6B7D} \text{\\#FF6B7D [11]}}$
+  * ${\color{#FF6B81} \text{\\#FF6B81 [12]}}$
+  * ${\color{#FF6D86} \text{\\#FF6D86 [13]}}$
+* achromatic:
+
+  * ${\color{#9D9D9D} \text{\\#9D9D9D [1]}}$
+  * ${\color{#A1A1A1} \text{\\#A1A1A1 [2]}}$
+  * ${\color{#A5A5A5} \text{\\#A5A5A5 [3]}}$
+  * ${\color{#AAAAAA} \text{\\#AAAAAA [4]}}$
+

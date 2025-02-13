@@ -1,4 +1,4 @@
-# Named Colors
+# Named Colors: All Color Sets
 
 ghcontrast configuration: all  
 ghcontrastmap definitions: 1520655  
@@ -8,7 +8,7 @@ max dark lc: 53.8
 max light lc: 53.5  
 hue step: 10.0  
 hue range: +- 5.0  
-colorset definitions: 21  
+colorset definitions: 22  
 
 Hue interval:
 * 0 [355, 5):
@@ -39,6 +39,7 @@ Hue interval:
   * ${\color{#FD7C6E} \text{\\#FD7C6E bittersweet [crayola]}}$
   * ${\color{#EA7E5D} \text{\\#EA7E5D burntsienna [crayola]}}$
   * ${\color{#EE8262} \text{\\#EE8262 salmon2 [raveling, two4u-big, x11]}}$
+  * ${\color{#EE8866} \text{\\#EE8866 tol-light-orange [paultol]}}$
   * ${\color{#FA8072} \text{\\#FA8072 salmon [css, hollasch, netscape3, two4u-big, x11]}}$
   * ${\color{#F88975} \text{\\#F88975 coral [thomas]}}$
   * ${\color{#DD8374} \text{\\#DD8374 newyorkpink [resene-2007, resene-2010, resene-full-2010]}}$
@@ -62,6 +63,7 @@ Hue interval:
   * ${\color{#FF7034} \text{\\#FF7034 burningorange [ntc]}}$
   * ${\color{#FD7B33} \text{\\#FD7B33 crusta [ntc, resene-2001]}}$
   * ${\color{#FF7538} \text{\\#FF7538 orange [crayola]}}$
+  * ${\color{#F57634} \text{\\#F57634 tol-nightfall-14 [paultol]}}$
   * ${\color{#FF7D40} \text{\\#FF7D40 flesh [hollasch]}}$
   * ${\color{#FF8243} \text{\\#FF8243 mangotango [crayola]}}$
   * ${\color{#FF8247} \text{\\#FF8247 sienna1 [raveling, two4u-big, x11]}}$
@@ -69,6 +71,7 @@ Hue interval:
   * ${\color{#FF7F4C} \text{\\#FF7F4C persimmon [cne-2007]}}$
   * ${\color{#EF863F} \text{\\#EF863F jaffa [ntc, resene-2001]}}$
   * ${\color{#FF7F50} \text{\\#FF7F50 coral [css, hollasch, netscape3, ntc, two4u-big, x11]}}$
+  * ${\color{#F67E4B} \text{\\#F67E4B tol-sunset-9 [paultol]}}$
   * ${\color{#EA8645} \text{\\#EA8645 flamenco [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#F38653} \text{\\#F38653 crusta [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#DF8850} \text{\\#DF8850 roxy [resene-full-2010]}}$
@@ -109,10 +112,14 @@ Hue interval:
   * ${\color{#EE8A21} \text{\\#EE8A21 pumpkin [cne-2007, cne-core-2007]}}$
   * ${\color{#ED9121} \text{\\#ED9121 carrot [hollasch], carrotorange [ntc]}}$
   * ${\color{#E5841B} \text{\\#E5841B zest [ntc, resene-2001]}}$
+  * ${\color{#EE8026} \text{\\#EE8026 tol-rainbow-23 [paultol]}}$
+  * ${\color{#F1932D} \text{\\#F1932D tol-rainbow-22 [paultol]}}$
   * ${\color{#ED872D} \text{\\#ED872D strongorange [nbs-iscc]}}$
   * ${\color{#EF8E38} \text{\\#EF8E38 sun [resene-2007, resene-2010, resene-full-2010]}}$
+  * ${\color{#E78C35} \text{\\#E78C35 tol-rainbow-pubr-18 [paultol], tol-rainbow-purd-18 [paultol], tol-rainbow-whbr-26 [paultol], tol-rainbow-whrd-26 [paultol]}}$
   * ${\color{#E98C3A} \text{\\#E98C3A california [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#E5823A} \text{\\#E5823A westside [resene-2007, resene-2010, resene-full-2010]}}$
+  * ${\color{#E49C39} \text{\\#E49C39 tol-rainbow-pubr-17 [paultol], tol-rainbow-purd-17 [paultol], tol-rainbow-whbr-25 [paultol], tol-rainbow-whrd-25 [paultol]}}$
   * ${\color{#E4943D} \text{\\#E4943D carpediem [resene-full-2010]}}$
   * ${\color{#EF9548} \text{\\#EF9548 seabuckthorn [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#E09842} \text{\\#E09842 firebush [resene-2007, resene-2010, resene-full-2010]}}$
@@ -230,6 +237,7 @@ Hue interval:
   * ${\color{#A9A7A0} \text{\\#A9A7A0 quarterfriargrey [resene-full-2010]}}$
   * ${\color{#A09F9C} \text{\\#A09F9C mountainmist [resene-2007, resene-2010, resene-full-2010]}}$
 * 60 [55, 65):
+  * ${\color{#AAAA00} \text{\\#AAAA00 tol-light-olive [paultol]}}$
   * ${\color{#9EA91F} \text{\\#9EA91F citron [ntc, resene-2001]}}$
   * ${\color{#AAAA66} \text{\\#AAAA66 drabolive [cne-2007]}}$
   * ${\color{#9F9F5F} \text{\\#9F9F5F khaki [two4u-medium, two4u-small, x11-old]}}$
@@ -299,8 +307,11 @@ Hue interval:
   * ${\color{#24BB3C} \text{\\#24BB3C kelly [cne-2007]}}$
   * ${\color{#33BF4C} \text{\\#33BF4C shamrockgreen [cne-2007]}}$
   * ${\color{#3BBC46} \text{\\#3BBC46 emeraldgreen [cne-2007, cne-core-2007]}}$
+  * ${\color{#4EB265} \text{\\#4EB265 tol-rainbow-15 [paultol]}}$
+  * ${\color{#5AAE61} \text{\\#5AAE61 tol-prgn-8 [paultol]}}$
   * ${\color{#63B76C} \text{\\#63B76C fern [ntc]}}$
   * ${\color{#71BC78} \text{\\#71BC78 fern [crayola]}}$
+  * ${\color{#77B77D} \text{\\#77B77D tol-rainbow-pubr-11 [paultol], tol-rainbow-purd-11 [paultol], tol-rainbow-whbr-19 [paultol], tol-rainbow-whrd-19 [paultol]}}$
   * ${\color{#8BA690} \text{\\#8BA690 envy [ntc, resene-2001]}}$
   * ${\color{#8BA58F} \text{\\#8BA58F envy [resene-2007, resene-2010, resene-full-2010], marshgreen [resene-full-2010]}}$
   * ${\color{#97A49A} \text{\\#97A49A edward [resene-2007, resene-2010, resene-full-2010]}}$
@@ -316,6 +327,7 @@ Hue interval:
   * ${\color{#3AB674} \text{\\#3AB674 dullgreen [cne-2007]}}$
   * ${\color{#3CB371} \text{\\#3CB371 mediumseagreen [css, netscape3, raveling, two4u-big, x11], seagreenmedium [hollasch]}}$
   * ${\color{#66B58F} \text{\\#66B58F silvertree [ntc, resene-2001]}}$
+  * ${\color{#69B190} \text{\\#69B190 tol-rainbow-pubr-10 [paultol], tol-rainbow-purd-10 [paultol], tol-rainbow-whbr-18 [paultol], tol-rainbow-whrd-18 [paultol]}}$
   * ${\color{#6AAB8E} \text{\\#6AAB8E lightgreen [nbs-iscc]}}$
   * ${\color{#7FB299} \text{\\#7FB299 seagreyblue [cne-2007]}}$
   * ${\color{#8DA399} \text{\\#8DA399 palegreen [nbs-iscc]}}$
@@ -327,6 +339,7 @@ Hue interval:
   * ${\color{#30BA8F} \text{\\#30BA8F mountainmeadow [crayola]}}$
   * ${\color{#33B789} \text{\\#33B789 tealgreen [cne-2007]}}$
   * ${\color{#37B083} \text{\\#37B083 bluishgreen [cne-2007]}}$
+  * ${\color{#44BB99} \text{\\#44BB99 tol-light-mint [paultol]}}$
   * ${\color{#3EB489} \text{\\#3EB489 brilliantgreen [nbs-iscc]}}$
   * ${\color{#3BB08F} \text{\\#3BB08F junglegreen [crayola]}}$
   * ${\color{#5FB69C} \text{\\#5FB69C keppel [resene-2007, resene-2010, resene-full-2010]}}$
@@ -343,6 +356,7 @@ Hue interval:
   * ${\color{#3ABDA0} \text{\\#3ABDA0 oceangreen [cne-2007]}}$
   * ${\color{#3AB09E} \text{\\#3AB09E keppel [ntc, resene-2001]}}$
   * ${\color{#59BAA3} \text{\\#59BAA3 puertorico [resene-2007, resene-2010, resene-full-2010]}}$
+  * ${\color{#60AB9E} \text{\\#60AB9E tol-rainbow-pubr-9 [paultol], tol-rainbow-purd-9 [paultol], tol-rainbow-whbr-17 [paultol], tol-rainbow-whrd-17 [paultol]}}$
   * ${\color{#66ADA4} \text{\\#66ADA4 lightbluishgreen [nbs-iscc]}}$
   * ${\color{#6DAFA7} \text{\\#6DAFA7 tradewind [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#74B2A8} \text{\\#74B2A8 gulfstream [resene-2007, resene-2010, resene-full-2010]}}$
@@ -365,6 +379,7 @@ Hue interval:
   * ${\color{#1DACD6} \text{\\#1DACD6 cerulean [crayola]}}$
   * ${\color{#1CA9C9} \text{\\#1CA9C9 pacificblue [crayola]}}$
   * ${\color{#31AFC8} \text{\\#31AFC8 marine [cne-2007]}}$
+  * ${\color{#42A7C6} \text{\\#42A7C6 tol-nightfall-4 [paultol]}}$
   * ${\color{#3EABBF} \text{\\#3EABBF pelorous [ntc, resene-2001]}}$
   * ${\color{#4DB1C8} \text{\\#4DB1C8 viking [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#56B4BE} \text{\\#56B4BE fountainblue [ntc, resene-2001]}}$
@@ -384,6 +399,7 @@ Hue interval:
   * ${\color{#45B1E8} \text{\\#45B1E8 pictonblue [ntc, resene-2001]}}$
   * ${\color{#4EABD1} \text{\\#4EABD1 shakespeare [ntc, resene-2001]}}$
   * ${\color{#6CA6CD} \text{\\#6CA6CD skyblue3 [raveling, two4u-big, x11]}}$
+  * ${\color{#6EA6CD} \text{\\#6EA6CD tol-sunset-3 [paultol]}}$
   * ${\color{#80B3C4} \text{\\#80B3C4 glacier [ntc, resene-2001]}}$
   * ${\color{#859FAF} \text{\\#859FAF balihai [ntc, resene-2001]}}$
   * ${\color{#93AAB9} \text{\\#93AAB9 nepal [resene-2007, resene-2010, resene-full-2010]}}$
@@ -395,6 +411,8 @@ Hue interval:
   * ${\color{#4FAAEE} \text{\\#4FAAEE sky [cne-2007, cne-core-2007]}}$
   * ${\color{#5CACEE} \text{\\#5CACEE steelblue2 [raveling, two4u-big, x11]}}$
   * ${\color{#7AAAE0} \text{\\#7AAAE0 jordyblue [resene-2007, resene-2010, resene-full-2010]}}$
+  * ${\color{#77AADD} \text{\\#77AADD tol-light-lightblue [paultol]}}$
+  * ${\color{#7BAFDE} \text{\\#7BAFDE tol-rainbow-14 [paultol]}}$
   * ${\color{#70A3CC} \text{\\#70A3CC lightblue [nbs-iscc]}}$
   * ${\color{#8AA7CC} \text{\\#8AA7CC poloblue [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#88A7C8} \text{\\#88A7C8 blake [resene-full-2010]}}$
@@ -408,6 +426,7 @@ Hue interval:
   * ${\color{#9FA3A7} \text{\\#9FA3A7 greychateau [resene-2007, resene-2010, resene-full-2010]}}$
 * 220 [215, 225):
   * ${\color{#6699FF} \text{\\#6699FF milkyblue [cne-2007]}}$
+  * ${\color{#88A5DD} \text{\\#88A5DD tol-iridescent-15 [paultol]}}$
   * ${\color{#93A2BA} \text{\\#93A2BA rockblue [resene-2007, resene-2010, resene-full-2010]}}$
   * ${\color{#93A2B7} \text{\\#93A2B7 smokescreen [resene-full-2010]}}$
   * ${\color{#A5A9B2} \text{\\#A5A9B2 mischka [resene-2007, resene-2010, resene-full-2010]}}$
@@ -418,6 +437,7 @@ Hue interval:
 * 240 [235, 245):
   * ${\color{#9999FF} \text{\\#9999FF babypurple [cne-2007]}}$
   * ${\color{#9999E5} \text{\\#9999E5 softlavender [cne-2007]}}$
+  * ${\color{#9398D2} \text{\\#9398D2 tol-iridescent-16 [paultol]}}$
   * ${\color{#9999CC} \text{\\#9999CC bluebell [ntc]}}$
   * ${\color{#A4A6D3} \text{\\#A4A6D3 wistful [ntc, resene-2001]}}$
   * ${\color{#A2A2D0} \text{\\#A2A2D0 bluebell [crayola]}}$
@@ -438,6 +458,7 @@ Hue interval:
 * 280 [275, 285):
   * ${\color{#D670FF} \text{\\#D670FF brightlilac [cne-2007]}}$
   * ${\color{#CC83F0} \text{\\#CC83F0 pastelpurple [cne-2007]}}$
+  * ${\color{#B58FC2} \text{\\#B58FC2 tol-rainbow-whbr-5 [paultol], tol-rainbow-whrd-5 [paultol]}}$
   * ${\color{#AB94B3} \text{\\#AB94B3 marionette [resene-full-2010]}}$
 * 290 [285, 295):
   * ${\color{#E066FF} \text{\\#E066FF mediumorchid1 [raveling, two4u-big, x11]}}$
